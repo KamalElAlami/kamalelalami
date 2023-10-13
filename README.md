@@ -29,7 +29,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kamalelalami&show_icons=true&locale=en&layout=compact" alt="kamalelalami" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kamalelalami&show_icons=true&locale=en" alt="kamalelalami" />
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW55cXE4cGNnOGltOTl0Z2phczc2dTZ3YzhnbGZqN3o4ZTZleHIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/poswCBv7369z2/giphy.gif" width="400px" alt="blackhole">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW55cXE4cGNnOGltOTl0Z2phczc2dTZ3YzhnbGZqN3o4ZTZleHIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/poswCBv7369z2/giphy.gif" width="300px" alt="blackhole">
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kamalelalami&" alt="kamalelalami" /></p>
