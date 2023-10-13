@@ -17,22 +17,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/kemalelalami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kemalelalami" height="30" width="40" /></a>
-  <!-- Add other social media links here -->
-</p>
-
-- 🔭 I’m currently working on **Chronos Agency**
-
-- 🌱 I’m currently learning **and honing my skills in various programming languages and technologies to build amazing software solutions.**
-
-- 👨‍💻 All of my projects are available at [kamalelalami.ma](kamalelalami.ma)
-
-- 💬 Ask me about **WordPress,Python Scripting & Automations**
-
-- 📫 How to reach me **kelalami123@gmail.com**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
 <a href="https://twitter.com/kemalelalami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kemalelalami" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kamalelalami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamal-el-alami-49449b270" height="30" width="40" /></a>
 <a href="https://fb.com/kelalami123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kelalami123" height="30" width="40" /></a>
