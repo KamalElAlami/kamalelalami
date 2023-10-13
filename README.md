@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamalelalami&label=Profile%20views&color=0e75b6&style=flat" alt="kamalelalami" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalelalami" alt="kamalelalami" /></a> </p>
-<img  align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW55cXE4cGNnOGltOTl0Z2phczc2dTZ3YzhnbGZqN3o4ZTZleHIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/poswCBv7369z2/giphy.gif" width="400px" alt="blackhole">
+<img  align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW55cXE4cGNnOGltOTl0Z2phczc2dTZ3YzhnbGZqN3o4ZTZleHIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/poswCBv7369z2/giphy.gif" width="300px" alt="blackhole">
 <p align="left"> <a href="https://twitter.com/kemalelalami" target="blank"><img src="https://img.shields.io/twitter/follow/kemalelalami?logo=twitter&style=for-the-badge" alt="kemalelalami" /></a> </p>
 
 - 🔭 I’m currently working on My Agency [Chronos Agency](https://www.instagram.com/chronosagencymorocco/)
