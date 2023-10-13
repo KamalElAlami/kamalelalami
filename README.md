@@ -2,19 +2,16 @@
   <div style="flex: 1; padding: 20px;">
     <h1 align="center">Hi There 👋, I'm Kamal El Alami</h1>
     <h3 align="center">A Passionate Web Developer From Morocco</h3>
-    <!-- Add other text descriptions here -->
+    - 🔭 I’m currently working on **Chronos Agency**
+    - 🌱 I’m currently learning **and honing my skills in various programming languages and technologies to build amazing software solutions.**
+    - 👨‍💻 All of my projects are available at [kamalelalami.ma](kamalelalami.ma)
+    - 💬 Ask me about **WordPress, Python Scripting & Automations**
+    - 📫 How to reach me **kelalami123@gmail.com**
   </div>
   <div style="flex: 1; text-align: center;">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW55cXE4cGNnOGltOTl0Z2phczc2dTZ3YzhnbGZqN3o4ZTZleHIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnl_faWQmY3Q9Zw/poswCBv7369z2/giphy.gif" width="300px" alt="blackhole">
   </div>
 </div>
-
-- 🔭 I’m currently working on **Chronos Agency**
-- 🌱 I’m currently learning **and honing my skills in various programming languages and technologies to build amazing software solutions.**
-- 👨‍💻 All of my projects are available at [kamalelalami.ma](kamalelalami.ma)
-- 💬 Ask me about **WordPress, Python Scripting & Automations**
-- 📫 How to reach me **kelalami123@gmail.com**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/kemalelalami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kemalelalami" height="30" width="40" /></a>
