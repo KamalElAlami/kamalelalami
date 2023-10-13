@@ -6,8 +6,7 @@
 <p align="right"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW55cXE4cGNnOGltOTl0Z2phczc2dTZ3YzhnbGZqN3o4ZTZleHIxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/poswCBv7369z2/giphy.gif" width="300px" alt="blackhole"> </p>
 
 - 🔭 I’m currently working on **Chronos Agency**
-- 🌱 I’m currently learning **and honing my skills in various programming languages and
-  technologies to build amazing software solutions.**
+- 🌱 I’m currently learning **and honing my skills in various programming languages.**
 - 👨‍💻 All of my projects are available at [kamalelalami.ma](kamalelalami.ma)
 - 💬 Ask me about **WordPress, Python Scripting & Automations**
 - 📫 How to reach me **kelalami123@gmail.com**
