@@ -16,6 +16,13 @@ $ whoami
 > Open to backend / DevOps / full-stack internships
 ```
 
+## 👾 This monster eats my progress
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kamalelalami/kamalelalami/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+
 ## 🌐 Socials
 
 <div align="center">
@@ -38,12 +45,6 @@ $ whoami
   <img src="https://github-readme-stats.shion.dev/api?username=kamalelalami&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
   <img src="https://streak-stats.demolab.com/?user=kamalelalami&theme=dark&hide_border=true" /><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kamalelalami&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/kamalelalami/kamalelalami/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ### ✍️ Random Dev Quote
